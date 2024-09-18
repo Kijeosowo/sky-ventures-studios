@@ -40,7 +40,7 @@ function Hero() {
     <h1 className="text-[#9A9FA4] text-4xl sm:text-5xl lg:text-7xl">SKY VENTURE</h1>
     <h1 className="uppercase text-white text-2xl sm:text-3xl lg:text-5xl text-center">
       One World, One Ecosystem," encapsulates <br /> our commitment to
-      creating a unified <br /> platform for global innovation.
+      creating a unified <br /> platform for global innovation
     </h1>
   </div>
 </section>
